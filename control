@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.ipactivator
+Name: IPActivator
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Show WiFi IP Address via Activator action
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
